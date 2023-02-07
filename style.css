@@ -1,0 +1,30 @@
+html {
+  background-color: darkgreen;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 25px 100px;
+  width: 900px;
+  margin: 10px auto;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+span {
+  text-decoration: line-through;
+}
